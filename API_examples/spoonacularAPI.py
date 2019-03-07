@@ -15,7 +15,7 @@ def find_recipes(ingredients):
 
     connection = requests.get(
         "https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/recipes/findByIngredients?number=3&ranking=1&ingredients={}".format(
-            ing),
+             ing),
         headers={"X-RapidAPI-Key": "key"})
     data_dict = dict()
     data = connection.json()
