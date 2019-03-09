@@ -6,7 +6,7 @@ Web-application, that helps create personal menu.
 
 ## Usage
 
-Visit nazarsmenu.com. 
+Visit our website(presently in development). 
 
 Follow given steps to create your own unique menu.
 
@@ -20,6 +20,3 @@ Please refer to each project's style and contribution guidelines for submitting 
  4. **Push** your work back up to your fork
  5. Submit a **Pull request** so that we can review your changes
  
- ## Conclusion 
- 
- The project makes it easier to track spendings on food and provides custormers with best menus based on their preferences.
