@@ -1,0 +1,1165 @@
+{
+    "513191": {
+        "vegetarian": false,
+        "vegan": false,
+        "glutenFree": false,
+        "dairyFree": true,
+        "veryHealthy": true,
+        "cheap": false,
+        "veryPopular": false,
+        "sustainable": false,
+        "weightWatcherSmartPoints": 6,
+        "gaps": "no",
+        "lowFodmap": false,
+        "ketogenic": false,
+        "whole30": false,
+        "preparationMinutes": 15,
+        "cookingMinutes": 360,
+        "sourceUrl": "http://recipesfoodandcooking.com/2013/07/29/slow-cooked-beef-brisket-in-the-oven/",
+        "spoonacularSourceUrl": "https://spoonacular.com/slow-cooked-beef-brisket-513191",
+        "aggregateLikes": 21,
+        "spoonacularScore": 97.0,
+        "healthScore": 87.0,
+        "creditText": "Recipes Food and Cooking",
+        "sourceName": "Recipes Food and Cooking",
+        "pricePerServing": 284.7,
+        "extendedIngredients": [
+            {
+                "id": 13023,
+                "aisle": "Meat",
+                "image": "beef-brisket.png",
+                "consitency": "solid",
+                "name": "beef brisket",
+                "original": "1 beef brisket - mine was just under 5 lbs.",
+                "originalString": "1 beef brisket - mine was just under 5 lbs.",
+                "originalName": "beef brisket - mine was just under 5 lbs.",
+                "amount": 1.0,
+                "unit": "",
+                "meta": [],
+                "metaInformation": [],
+                "measures": {
+                    "us": {
+                        "amount": 1.0,
+                        "unitShort": "",
+                        "unitLong": ""
+                    },
+                    "metric": {
+                        "amount": 1.0,
+                        "unitShort": "",
+                        "unitLong": ""
+                    }
+                }
+            },
+            {
+                "id": 11124,
+                "aisle": "Produce",
+                "image": "sliced-carrot.png",
+                "consitency": "solid",
+                "name": "carrots",
+                "original": "2 lbs. carrots",
+                "originalString": "2 lbs. carrots",
+                "originalName": "carrots",
+                "amount": 2.0,
+                "unit": "lbs",
+                "meta": [],
+                "metaInformation": [],
+                "measures": {
+                    "us": {
+                        "amount": 2.0,
+                        "unitShort": "lb",
+                        "unitLong": "pounds"
+                    },
+                    "metric": {
+                        "amount": 907.185,
+                        "unitShort": "g",
+                        "unitLong": "grams"
+                    }
+                }
+            },
+            {
+                "id": 20081,
+                "aisle": "Baking",
+                "image": "flour.png",
+                "consitency": "solid",
+                "name": "flour",
+                "original": "1 tablespoon flour",
+                "originalString": "1 tablespoon flour",
+                "originalName": "flour",
+                "amount": 1.0,
+                "unit": "tablespoon",
+                "meta": [],
+                "metaInformation": [],
+                "measures": {
+                    "us": {
+                        "amount": 1.0,
+                        "unitShort": "Tbsp",
+                        "unitLong": "Tbsp"
+                    },
+                    "metric": {
+                        "amount": 1.0,
+                        "unitShort": "Tbsp",
+                        "unitLong": "Tbsp"
+                    }
+                }
+            },
+            {
+                "id": 11282,
+                "aisle": "Produce",
+                "image": "brown-onion.png",
+                "consitency": "solid",
+                "name": "onions",
+                "original": "3 large onions",
+                "originalString": "3 large onions",
+                "originalName": "onions",
+                "amount": 3.0,
+                "unit": "large",
+                "meta": [],
+                "metaInformation": [],
+                "measures": {
+                    "us": {
+                        "amount": 3.0,
+                        "unitShort": "large",
+                        "unitLong": "larges"
+                    },
+                    "metric": {
+                        "amount": 3.0,
+                        "unitShort": "large",
+                        "unitLong": "larges"
+                    }
+                }
+            },
+            {
+                "id": 10211821,
+                "aisle": "Produce",
+                "image": "yellow-bell-pepper.jpg",
+                "consitency": "solid",
+                "name": "bell pepper",
+                "original": "pepper",
+                "originalString": "pepper",
+                "originalName": "pepper",
+                "amount": 10.0,
+                "unit": "servings",
+                "meta": [],
+                "metaInformation": [],
+                "measures": {
+                    "us": {
+                        "amount": 10.0,
+                        "unitShort": "servings",
+                        "unitLong": "servings"
+                    },
+                    "metric": {
+                        "amount": 10.0,
+                        "unitShort": "servings",
+                        "unitLong": "servings"
+                    }
+                }
+            },
+            {
+                "id": 2047,
+                "aisle": "Spices and Seasonings",
+                "image": "salt.jpg",
+                "consitency": "solid",
+                "name": "salt",
+                "original": "salt",
+                "originalString": "salt",
+                "originalName": "salt",
+                "amount": 10.0,
+                "unit": "servings",
+                "meta": [],
+                "metaInformation": [],
+                "measures": {
+                    "us": {
+                        "amount": 10.0,
+                        "unitShort": "servings",
+                        "unitLong": "servings"
+                    },
+                    "metric": {
+                        "amount": 10.0,
+                        "unitShort": "servings",
+                        "unitLong": "servings"
+                    }
+                }
+            },
+            {
+                "id": 14412,
+                "aisle": "Beverages",
+                "image": "water.png",
+                "consitency": "liquid",
+                "name": "water",
+                "original": "1 cup water",
+                "originalString": "1 cup water",
+                "originalName": "water",
+                "amount": 1.0,
+                "unit": "cup",
+                "meta": [],
+                "metaInformation": [],
+                "measures": {
+                    "us": {
+                        "amount": 1.0,
+                        "unitShort": "cup",
+                        "unitLong": "cup"
+                    },
+                    "metric": {
+                        "amount": 236.588,
+                        "unitShort": "g",
+                        "unitLong": "grams"
+                    }
+                }
+            }
+        ],
+        "id": 513191,
+        "title": "Slow Cooked Beef Brisket",
+        "readyInMinutes": 360,
+        "servings": 10,
+        "image": "https://spoonacular.com/recipeImages/513191-556x370.jpg",
+        "imageType": "jpg",
+        "cuisines": [
+            "jewish"
+        ],
+        "dishTypes": [
+            "lunch",
+            "main course",
+            "main dish",
+            "dinner"
+        ],
+        "diets": [
+            "dairy free"
+        ],
+        "occasions": [
+            "hanukkah"
+        ],
+        "winePairing": {
+            "pairedWines": [
+                "shiraz",
+                "tempranillo",
+                "zinfandel"
+            ],
+            "pairingText": "Shiraz, Tempranillo, and Zinfandel are great choices for Beef Brisket. All these red wines can handle the meaty, smokey flavor of brisket. If you're talking traditional Jewish brisket, you'll want to look for a kosher red wine. The Rosemount Diamond Shiraz with a 4 out of 5 star rating seems like a good match. It costs about 14 dollars per bottle.",
+            "productMatches": [
+                {
+                    "id": 435537,
+                    "title": "Rosemount Diamond Shiraz",
+                    "description": "Shiraz is the most widely planted red grape variety in Australia. It is known for producing outstanding rich reds with a classic spicy finish. Shiraz has long been recognised for growing particularly well in the warmer and drier regions such as those of South Australia and Mudgee in New South Wales. In these environments, it achieves a richness of varietal character and depth of concentration that best suits our Diamond Label style.The grapes for this wine were sourced predominantly from our vineyards in South Australias McLaren Vale and Langhorne Creek, with a proportion from Mudgee in New South Wales and also Murray River Valley. In McLaren Vale, the long generous summers generally are tempered by cooling breezes from the Gulf of St. Vincent and Lake Alexandrina, whilst the night time cool of the Blue Mountains produces similar conditions in Mudgee. These cool periods enable the colour pigments and natural acidity within the fruit to stabilise, thus allowing the typically full, spicy flavours of the variety to ripen whilst retaining overall structural balance.",
+                    "price": "$13.99",
+                    "imageUrl": "https://spoonacular.com/productImages/435537-312x231.jpg",
+                    "averageRating": 0.8,
+                    "ratingCount": 5.0,
+                    "score": 0.7375,
+                    "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Frosemount-diamond-shiraz-2003%2F77672"
+                }
+            ]
+        },
+        "instructions": "Sprinkle the flour into the bag. Place bag on a large cookie sheet. Preheat oven to 275 degrees.Add the beef brisket. Season with salt and pepper. Leave the fat cap on. (you will remove it before serving) Place that side up. Add the vegetables and water. Use the tie that comes with the bag and close the bag. Place a couple of slits in the top of the bag for the steam to escape.Place the roast in the oven with the cookie sheet. Roast will be done in about 4 hours but will hold in the oven as long as 6 hours.Remove the roast from the oven to a cutting board. Let set for 15 minutes, covered. Remove fat cap and slice for serving.Make gravy after removing most of the fat. Serve with the vegetables.",
+        "analyzedInstructions": [
+            {
+                "name": "",
+                "steps": [
+                    {
+                        "number": 1,
+                        "step": "Sprinkle the flour into the bag.",
+                        "ingredients": [
+                            {
+                                "id": 20081,
+                                "name": "all purpose flour",
+                                "image": "flour.png"
+                            }
+                        ],
+                        "equipment": []
+                    },
+                    {
+                        "number": 2,
+                        "step": "Place bag on a large cookie sheet. Preheat oven to 275 degrees.",
+                        "ingredients": [],
+                        "equipment": [
+                            {
+                                "id": 404727,
+                                "name": "baking sheet",
+                                "image": "baking-sheet.jpg"
+                            },
+                            {
+                                "id": 404784,
+                                "name": "oven",
+                                "image": "oven.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 3,
+                        "step": "Add the beef brisket. Season with salt and pepper. Leave the fat cap on. (you will remove it before serving)",
+                        "ingredients": [
+                            {
+                                "id": 1102047,
+                                "name": "salt and pepper",
+                                "image": "salt-and-pepper.jpg"
+                            },
+                            {
+                                "id": 13023,
+                                "name": "beef brisket",
+                                "image": "beef-brisket.png"
+                            }
+                        ],
+                        "equipment": []
+                    },
+                    {
+                        "number": 4,
+                        "step": "Place that side up.",
+                        "ingredients": [],
+                        "equipment": []
+                    },
+                    {
+                        "number": 5,
+                        "step": "Add the vegetables and water. Use the tie that comes with the bag and close the bag.",
+                        "ingredients": [
+                            {
+                                "id": 14412,
+                                "name": "water",
+                                "image": "water.png"
+                            }
+                        ],
+                        "equipment": []
+                    },
+                    {
+                        "number": 6,
+                        "step": "Place a couple of slits in the top of the bag for the steam to escape.",
+                        "ingredients": [],
+                        "equipment": []
+                    },
+                    {
+                        "number": 7,
+                        "step": "Place the roast in the oven with the cookie sheet. Roast will be done in about 4 hours but will hold in the oven as long as 6 hours.",
+                        "ingredients": [],
+                        "equipment": [
+                            {
+                                "id": 404727,
+                                "name": "baking sheet",
+                                "image": "baking-sheet.jpg"
+                            },
+                            {
+                                "id": 404784,
+                                "name": "oven",
+                                "image": "oven.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 8,
+                        "step": "Remove the roast from the oven to a cutting board.",
+                        "ingredients": [],
+                        "equipment": [
+                            {
+                                "id": 404716,
+                                "name": "cutting board",
+                                "image": "cutting-board.jpg"
+                            },
+                            {
+                                "id": 404784,
+                                "name": "oven",
+                                "image": "oven.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 9,
+                        "step": "Let set for 15 minutes, covered.",
+                        "ingredients": [],
+                        "equipment": [],
+                        "length": {
+                            "number": 15,
+                            "unit": "minutes"
+                        }
+                    },
+                    {
+                        "number": 10,
+                        "step": "Remove fat cap and slice for serving.Make gravy after removing most of the fat.",
+                        "ingredients": [],
+                        "equipment": []
+                    },
+                    {
+                        "number": 11,
+                        "step": "Serve with the vegetables.",
+                        "ingredients": [],
+                        "equipment": []
+                    }
+                ]
+            }
+        ],
+        "creditsText": "Recipes Food and Cooking"
+    },
+    "198235": {
+        "vegetarian": false,
+        "vegan": false,
+        "glutenFree": true,
+        "dairyFree": true,
+        "veryHealthy": false,
+        "cheap": false,
+        "veryPopular": false,
+        "sustainable": false,
+        "weightWatcherSmartPoints": 12,
+        "gaps": "GAPS_3",
+        "lowFodmap": false,
+        "ketogenic": false,
+        "whole30": true,
+        "sourceUrl": "http://www.seriouseats.com/recipes/2009/10/perfect-pot-roast-recipe-pioneer-woman.html",
+        "spoonacularSourceUrl": "https://spoonacular.com/cook-the-book-perfect-pot-roast-198235",
+        "aggregateLikes": 8,
+        "spoonacularScore": 89.0,
+        "healthScore": 47.0,
+        "creditText": "Serious Eats",
+        "sourceName": "Serious Eats",
+        "pricePerServing": 298.17,
+        "extendedIngredients": [
+            {
+                "id": 6170,
+                "aisle": "Canned and Jarred",
+                "image": "beef-broth.png",
+                "consitency": "liquid",
+                "name": "beef stock",
+                "original": "2 to 2 1/2 cups beef stock",
+                "originalString": "2 to 2 1/2 cups beef stock",
+                "originalName": "beef stock",
+                "amount": 2.0,
+                "unit": "cups",
+                "meta": [],
+                "metaInformation": [],
+                "measures": {
+                    "us": {
+                        "amount": 2.0,
+                        "unitShort": "cups",
+                        "unitLong": "cups"
+                    },
+                    "metric": {
+                        "amount": 473.176,
+                        "unitShort": "g",
+                        "unitLong": "grams"
+                    }
+                }
+            },
+            {
+                "id": 11124,
+                "aisle": "Produce",
+                "image": "sliced-carrot.png",
+                "consitency": "solid",
+                "name": "carrots",
+                "original": "6 to 8 carrots",
+                "originalString": "6 to 8 carrots",
+                "originalName": "to 8 carrots",
+                "amount": 6.0,
+                "unit": "",
+                "meta": [],
+                "metaInformation": [],
+                "measures": {
+                    "us": {
+                        "amount": 6.0,
+                        "unitShort": "",
+                        "unitLong": ""
+                    },
+                    "metric": {
+                        "amount": 6.0,
+                        "unitShort": "",
+                        "unitLong": ""
+                    }
+                }
+            },
+            {
+                "id": 13786,
+                "aisle": "Meat",
+                "image": "beef-chuck-roast.png",
+                "consitency": "solid",
+                "name": "chuck roast",
+                "original": "1 3- to 5-pound chuck roast",
+                "originalString": "1 3- to 5-pound chuck roast",
+                "originalName": "chuck roast",
+                "amount": 3.0,
+                "unit": "pound",
+                "meta": [],
+                "metaInformation": [],
+                "measures": {
+                    "us": {
+                        "amount": 3.0,
+                        "unitShort": "lb",
+                        "unitLong": "pounds"
+                    },
+                    "metric": {
+                        "amount": 1.361,
+                        "unitShort": "kilogram",
+                        "unitLong": "kilograms"
+                    }
+                }
+            },
+            {
+                "id": 1082047,
+                "aisle": "Spices and Seasonings",
+                "image": "salt.jpg",
+                "consitency": "solid",
+                "name": "kosher salt",
+                "original": "Kosher salt",
+                "originalString": "Kosher salt",
+                "originalName": "Kosher salt",
+                "amount": 6.0,
+                "unit": "servings",
+                "meta": [],
+                "metaInformation": [],
+                "measures": {
+                    "us": {
+                        "amount": 6.0,
+                        "unitShort": "servings",
+                        "unitLong": "servings"
+                    },
+                    "metric": {
+                        "amount": 6.0,
+                        "unitShort": "servings",
+                        "unitLong": "servings"
+                    }
+                }
+            },
+            {
+                "id": 11282,
+                "aisle": "Produce",
+                "image": "brown-onion.png",
+                "consitency": "solid",
+                "name": "onions",
+                "original": "2 onions",
+                "originalString": "2 onions",
+                "originalName": "onions",
+                "amount": 2.0,
+                "unit": "",
+                "meta": [],
+                "metaInformation": [],
+                "measures": {
+                    "us": {
+                        "amount": 2.0,
+                        "unitShort": "",
+                        "unitLong": ""
+                    },
+                    "metric": {
+                        "amount": 2.0,
+                        "unitShort": "",
+                        "unitLong": ""
+                    }
+                }
+            },
+            {
+                "id": 10211821,
+                "aisle": "Produce",
+                "image": "yellow-bell-pepper.jpg",
+                "consitency": "solid",
+                "name": "bell pepper",
+                "original": "Pepper",
+                "originalString": "Pepper",
+                "originalName": "Pepper",
+                "amount": 6.0,
+                "unit": "servings",
+                "meta": [],
+                "metaInformation": [],
+                "measures": {
+                    "us": {
+                        "amount": 6.0,
+                        "unitShort": "servings",
+                        "unitLong": "servings"
+                    },
+                    "metric": {
+                        "amount": 6.0,
+                        "unitShort": "servings",
+                        "unitLong": "servings"
+                    }
+                }
+            }
+        ],
+        "id": 198235,
+        "title": "Cook the Book: Perfect Pot Roast",
+        "readyInMinutes": 45,
+        "servings": 6,
+        "image": "https://spoonacular.com/recipeImages/198235-556x370.jpg",
+        "imageType": "jpg",
+        "cuisines": [],
+        "dishTypes": [
+            "lunch",
+            "main course",
+            "main dish",
+            "dinner"
+        ],
+        "diets": [
+            "gluten free",
+            "dairy free",
+            "paleolithic",
+            "primal",
+            "whole 30"
+        ],
+        "occasions": [],
+        "winePairing": {},
+        "instructions": "Procedures                                                                              1                                                                            Preheat the oven to 275F.                                                                                                                            2                                                                            Heat a large pot or Dutch oven over medium-high heat.  Add the olive oil and let it get really hot.  While it heats, prepare the other ingredients.                                                                                                                            3                                                                            Generously salt the chuck roast on both sides.  I like kosher salt because it adheres more readily to the meat.                                                                                                                            4                                                                            Cut a couple of onions in half from root to tip...                                                                                                                            5                                                                            Then cut off the tops and bottoms and peel off the papery skin.                                                                                                                            6                                                                            When the pot is very hot, place the onions in the oil and brown on both sides, about a minute per side.  Remove the onions to a plate.                                                                                                                            7                                                                            Now, with the burner on high, deglaze the pot by adding 1 cup of the beef stock, whisking constantly.  The point of deglazing is to loosen all of the burned flavorful bits from the bottom of the pot.                                                                                                                            8                                                                            Throw the carrots into the same (very hot) pot.  Toss them around until slightly brown, about a minute or so.  The point here is to get a nice color started on the outside of the vegetables, not to cook them.                                                                                                                             9                                                                            Remove the carrots from the pot and allow the pot to get really hot again.  Add another tablespoon of oil to the pan.                                                                                                                            10                                                                            Place the meat in the pot and sear it, about a minute per side.  Remove to a plate.                                                                                                                            11                                                                            Now, with the burner on high, deglaze the pot by adding 1 cup of the beef stock, whisking constantly.  The point of deglazing is to loosen all of the burned flavorful bits from the bottom of the pot.                                                                                                                            12                                                                            When most of the bits are loosened, place the meat back in the pot...                                                                                                                            13                                                                            Followed by the carrots and onions.  Pour enough beef stock into the pot to cover the meat halfway.                                                                                                                            14                                                                            Next, put in the fresh rosemary and thyme sprigs.  The fresh herbs absolutely make this dish.  Tuck them into the juice to ensure that the flavors are distributed throughout the pot.                                                                                                                            15                                                                            Now, just cover the pot and roast for 3 to 5 hours, depending on the size of your roast. For a 3-pound roast, allow 3 to 3 1/2 hours.  For a 5-pound roast, allow for a 4- to 5-hour cooking time.  Don't disrupt the roast during the cooking process.                                                                                                                            16                                                                            When the cooking time is over, check the roast for doneness; a fork should go in easily and the meat should be very tender.  Remove the meat to a cutting board and slice against the grain.",
+        "analyzedInstructions": [
+            {
+                "name": "",
+                "steps": [
+                    {
+                        "number": 1,
+                        "step": "Preheat the oven to 275F.",
+                        "ingredients": [],
+                        "equipment": [
+                            {
+                                "id": 404784,
+                                "name": "oven",
+                                "image": "oven.jpg",
+                                "temperature": {
+                                    "number": 275.0,
+                                    "unit": "Fahrenheit"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "step": "Heat a large pot or Dutch oven over medium-high heat.",
+                        "ingredients": [],
+                        "equipment": [
+                            {
+                                "id": 404667,
+                                "name": "dutch oven",
+                                "image": "dutch-oven.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 3,
+                        "step": "Add the olive oil and let it get really hot.  While it heats, prepare the other ingredients.",
+                        "ingredients": [],
+                        "equipment": []
+                    },
+                    {
+                        "number": 4,
+                        "step": "Generously salt the chuck roast on both sides.  I like kosher salt because it adheres more readily to the meat.",
+                        "ingredients": [
+                            {
+                                "id": 13786,
+                                "name": "beef chuck roast",
+                                "image": "beef-chuck-roast.png"
+                            },
+                            {
+                                "id": 1082047,
+                                "name": "kosher salt",
+                                "image": "salt.jpg"
+                            },
+                            {
+                                "id": 2047,
+                                "name": "salt",
+                                "image": "salt.jpg"
+                            }
+                        ],
+                        "equipment": []
+                    },
+                    {
+                        "number": 5,
+                        "step": "Cut a couple of onions in half from root to tip...",
+                        "ingredients": [
+                            {
+                                "id": 11282,
+                                "name": "onion",
+                                "image": "brown-onion.png"
+                            }
+                        ],
+                        "equipment": []
+                    },
+                    {
+                        "number": 6,
+                        "step": "Then cut off the tops and bottoms and peel off the papery skin.",
+                        "ingredients": [],
+                        "equipment": []
+                    },
+                    {
+                        "number": 7,
+                        "step": "When the pot is very hot, place the onions in the oil and brown on both sides, about a minute per side.",
+                        "ingredients": [
+                            {
+                                "id": 11282,
+                                "name": "onion",
+                                "image": "brown-onion.png"
+                            }
+                        ],
+                        "equipment": [
+                            {
+                                "id": 404752,
+                                "name": "pot",
+                                "image": "stock-pot.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 8,
+                        "step": "Remove the onions to a plate.",
+                        "ingredients": [
+                            {
+                                "id": 11282,
+                                "name": "onion",
+                                "image": "brown-onion.png"
+                            }
+                        ],
+                        "equipment": []
+                    },
+                    {
+                        "number": 9,
+                        "step": "Now, with the burner on high, deglaze the pot by adding 1 cup of the beef stock, whisking constantly.  The point of deglazing is to loosen all of the burned flavorful bits from the bottom of the pot.",
+                        "ingredients": [
+                            {
+                                "id": 6170,
+                                "name": "beef stock",
+                                "image": "beef-broth.png"
+                            }
+                        ],
+                        "equipment": [
+                            {
+                                "id": 404661,
+                                "name": "whisk",
+                                "image": "whisk.png"
+                            },
+                            {
+                                "id": 404752,
+                                "name": "pot",
+                                "image": "stock-pot.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 10,
+                        "step": "Throw the carrots into the same (very hot) pot.  Toss them around until slightly brown, about a minute or so.  The point here is to get a nice color started on the outside of the vegetables, not to cook them.",
+                        "ingredients": [
+                            {
+                                "id": 11124,
+                                "name": "carrot",
+                                "image": "sliced-carrot.png"
+                            }
+                        ],
+                        "equipment": [
+                            {
+                                "id": 404752,
+                                "name": "pot",
+                                "image": "stock-pot.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 11,
+                        "step": "Remove the carrots from the pot and allow the pot to get really hot again.",
+                        "ingredients": [
+                            {
+                                "id": 11124,
+                                "name": "carrot",
+                                "image": "sliced-carrot.png"
+                            }
+                        ],
+                        "equipment": [
+                            {
+                                "id": 404752,
+                                "name": "pot",
+                                "image": "stock-pot.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 12,
+                        "step": "Add another tablespoon of oil to the pan.",
+                        "ingredients": [],
+                        "equipment": [
+                            {
+                                "id": 404645,
+                                "name": "frying pan",
+                                "image": "pan.png"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 13,
+                        "step": "Place the meat in the pot and sear it, about a minute per side.",
+                        "ingredients": [],
+                        "equipment": [
+                            {
+                                "id": 404752,
+                                "name": "pot",
+                                "image": "stock-pot.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 14,
+                        "step": "Remove to a plate.",
+                        "ingredients": [],
+                        "equipment": []
+                    },
+                    {
+                        "number": 15,
+                        "step": "Now, with the burner on high, deglaze the pot by adding 1 cup of the beef stock, whisking constantly.  The point of deglazing is to loosen all of the burned flavorful bits from the bottom of the pot.",
+                        "ingredients": [
+                            {
+                                "id": 6170,
+                                "name": "beef stock",
+                                "image": "beef-broth.png"
+                            }
+                        ],
+                        "equipment": [
+                            {
+                                "id": 404661,
+                                "name": "whisk",
+                                "image": "whisk.png"
+                            },
+                            {
+                                "id": 404752,
+                                "name": "pot",
+                                "image": "stock-pot.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 16,
+                        "step": "When most of the bits are loosened, place the meat back in the pot...",
+                        "ingredients": [],
+                        "equipment": [
+                            {
+                                "id": 404752,
+                                "name": "pot",
+                                "image": "stock-pot.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 17,
+                        "step": "Followed by the carrots and onions.",
+                        "ingredients": [
+                            {
+                                "id": 11124,
+                                "name": "carrot",
+                                "image": "sliced-carrot.png"
+                            },
+                            {
+                                "id": 11282,
+                                "name": "onion",
+                                "image": "brown-onion.png"
+                            }
+                        ],
+                        "equipment": []
+                    },
+                    {
+                        "number": 18,
+                        "step": "Pour enough beef stock into the pot to cover the meat halfway.",
+                        "ingredients": [
+                            {
+                                "id": 6170,
+                                "name": "beef stock",
+                                "image": "beef-broth.png"
+                            }
+                        ],
+                        "equipment": [
+                            {
+                                "id": 404752,
+                                "name": "pot",
+                                "image": "stock-pot.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 19,
+                        "step": "Next, put in the fresh rosemary and thyme sprigs.  The fresh herbs absolutely make this dish.  Tuck them into the juice to ensure that the flavors are distributed throughout the pot.",
+                        "ingredients": [],
+                        "equipment": [
+                            {
+                                "id": 404752,
+                                "name": "pot",
+                                "image": "stock-pot.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 20,
+                        "step": "Now, just cover the pot and roast for 3 to 5 hours, depending on the size of your roast. For a 3-pound roast, allow 3 to 3 1/2 hours.  For a 5-pound roast, allow for a 4- to 5-hour cooking time.  Don't disrupt the roast during the cooking process.",
+                        "ingredients": [],
+                        "equipment": [
+                            {
+                                "id": 404752,
+                                "name": "pot",
+                                "image": "stock-pot.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 21,
+                        "step": "When the cooking time is over, check the roast for doneness; a fork should go in easily and the meat should be very tender.",
+                        "ingredients": [],
+                        "equipment": []
+                    },
+                    {
+                        "number": 22,
+                        "step": "Remove the meat to a cutting board and slice against the grain.",
+                        "ingredients": [],
+                        "equipment": [
+                            {
+                                "id": 404716,
+                                "name": "cutting board",
+                                "image": "cutting-board.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "creditsText": "Serious Eats"
+    },
+    "415726": {
+        "vegetarian": false,
+        "vegan": false,
+        "glutenFree": true,
+        "dairyFree": true,
+        "veryHealthy": false,
+        "cheap": false,
+        "veryPopular": false,
+        "sustainable": false,
+        "weightWatcherSmartPoints": 9,
+        "gaps": "GAPS_3",
+        "lowFodmap": false,
+        "ketogenic": false,
+        "whole30": true,
+        "preparationMinutes": 15,
+        "cookingMinutes": 10,
+        "sourceUrl": "http://www.tasteofhome.com/Recipes/veggie-beef-patties",
+        "spoonacularSourceUrl": "https://spoonacular.com/veggie-beef-patties-415726",
+        "aggregateLikes": 0,
+        "spoonacularScore": 34.0,
+        "healthScore": 6.0,
+        "creditText": "Taste of Home",
+        "sourceName": "Taste of Home",
+        "pricePerServing": 94.46,
+        "extendedIngredients": [
+            {
+                "id": 11124,
+                "aisle": "Produce",
+                "image": "sliced-carrot.png",
+                "consitency": "solid",
+                "name": "carrot",
+                "original": "1/4 cup grated carrot",
+                "originalString": "1/4 cup grated carrot",
+                "originalName": "grated carrot",
+                "amount": 0.25,
+                "unit": "cup",
+                "meta": [
+                    "grated"
+                ],
+                "metaInformation": [
+                    "grated"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 0.25,
+                        "unitShort": "cups",
+                        "unitLong": "cups"
+                    },
+                    "metric": {
+                        "amount": 59.147,
+                        "unitShort": "g",
+                        "unitLong": "grams"
+                    }
+                }
+            },
+            {
+                "id": 11333,
+                "aisle": "Produce",
+                "image": "green-pepper.jpg",
+                "consitency": "solid",
+                "name": "green bell pepper",
+                "original": "1/4 cup finely chopped green pepper",
+                "originalString": "1/4 cup finely chopped green pepper",
+                "originalName": "finely chopped green pepper",
+                "amount": 0.25,
+                "unit": "cup",
+                "meta": [
+                    "green",
+                    "finely chopped"
+                ],
+                "metaInformation": [
+                    "green",
+                    "finely chopped"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 0.25,
+                        "unitShort": "cups",
+                        "unitLong": "cups"
+                    },
+                    "metric": {
+                        "amount": 59.147,
+                        "unitShort": "g",
+                        "unitLong": "grams"
+                    }
+                }
+            },
+            {
+                "id": 10023572,
+                "aisle": "Meat",
+                "image": "fresh-ground-beef.jpg",
+                "consitency": "solid",
+                "name": "ground beef",
+                "original": "1 pound ground beef",
+                "originalString": "1 pound ground beef",
+                "originalName": "ground beef",
+                "amount": 1.0,
+                "unit": "pound",
+                "meta": [],
+                "metaInformation": [],
+                "measures": {
+                    "us": {
+                        "amount": 1.0,
+                        "unitShort": "lb",
+                        "unitLong": "pound"
+                    },
+                    "metric": {
+                        "amount": 453.592,
+                        "unitShort": "g",
+                        "unitLong": "grams"
+                    }
+                }
+            },
+            {
+                "id": 11282,
+                "aisle": "Produce",
+                "image": "brown-onion.png",
+                "consitency": "solid",
+                "name": "onion",
+                "original": "1/4 cup finely chopped onion",
+                "originalString": "1/4 cup finely chopped onion",
+                "originalName": "finely chopped onion",
+                "amount": 0.25,
+                "unit": "cup",
+                "meta": [
+                    "finely chopped"
+                ],
+                "metaInformation": [
+                    "finely chopped"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 0.25,
+                        "unitShort": "cups",
+                        "unitLong": "cups"
+                    },
+                    "metric": {
+                        "amount": 59.147,
+                        "unitShort": "g",
+                        "unitLong": "grams"
+                    }
+                }
+            },
+            {
+                "id": 1102047,
+                "aisle": "Spices and Seasonings",
+                "image": "salt-and-pepper.jpg",
+                "consitency": "solid",
+                "name": "salt and pepper",
+                "original": "Salt and pepper to taste",
+                "originalString": "Salt and pepper to taste",
+                "originalName": "Salt and pepper to taste",
+                "amount": 4.0,
+                "unit": "servings",
+                "meta": [
+                    "to taste"
+                ],
+                "metaInformation": [
+                    "to taste"
+                ],
+                "measures": {
+                    "us": {
+                        "amount": 4.0,
+                        "unitShort": "servings",
+                        "unitLong": "servings"
+                    },
+                    "metric": {
+                        "amount": 4.0,
+                        "unitShort": "servings",
+                        "unitLong": "servings"
+                    }
+                }
+            }
+        ],
+        "id": 415726,
+        "title": "Veggie Beef Patties",
+        "readyInMinutes": 25,
+        "servings": 4,
+        "image": "https://spoonacular.com/recipeImages/415726-556x370.jpg",
+        "imageType": "jpg",
+        "cuisines": [],
+        "dishTypes": [
+            "lunch",
+            "main course",
+            "main dish",
+            "dinner"
+        ],
+        "diets": [
+            "gluten free",
+            "dairy free",
+            "paleolithic",
+            "primal",
+            "whole 30"
+        ],
+        "occasions": [],
+        "winePairing": {},
+        "instructions": "Directions                                                                                In a large bowl, combine the carrot, onion and green pepper. Crumble beef over mixture and mix well. Shape into four patties. Season with salt and pepper.                                                                                            In a large skillet, cook burgers over medium heat for 4-6 minutes on each side or until meat is no longer pink.                                        Yield: 4 servings.                                                                                                                         Originally published as Veggie Beef Patties in  Country WomanJanuary/February 2003, p36                                                                                                                            Print                                                                                    Add to Recipe Box                            Email a Friend",
+        "analyzedInstructions": [
+            {
+                "name": "",
+                "steps": [
+                    {
+                        "number": 1,
+                        "step": "In a large bowl, combine the carrot, onion and green pepper. Crumble beef over mixture and mix well. Shape into four patties. Season with salt and pepper.",
+                        "ingredients": [
+                            {
+                                "id": 1102047,
+                                "name": "salt and pepper",
+                                "image": "salt-and-pepper.jpg"
+                            },
+                            {
+                                "id": 11333,
+                                "name": "green pepper",
+                                "image": "green-pepper.jpg"
+                            },
+                            {
+                                "id": 11124,
+                                "name": "carrot",
+                                "image": "sliced-carrot.png"
+                            },
+                            {
+                                "id": 11282,
+                                "name": "onion",
+                                "image": "brown-onion.png"
+                            },
+                            {
+                                "id": 23572,
+                                "name": "beef",
+                                "image": "beef-cubes-raw.png"
+                            }
+                        ],
+                        "equipment": [
+                            {
+                                "id": 404783,
+                                "name": "bowl",
+                                "image": "bowl.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "step": "In a large skillet, cook burgers over medium heat for 4-6 minutes on each side or until meat is no longer pink.",
+                        "ingredients": [],
+                        "equipment": [
+                            {
+                                "id": 404645,
+                                "name": "frying pan",
+                                "image": "pan.png"
+                            }
+                        ],
+                        "length": {
+                            "number": 6,
+                            "unit": "minutes"
+                        }
+                    }
+                ]
+            }
+        ],
+        "creditsText": "Taste of Home"
+    }
+}
