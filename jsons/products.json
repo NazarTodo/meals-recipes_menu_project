@@ -1,0 +1,57 @@
+{
+    "uk": {
+        "ghs": {
+            "products": {
+                "input_query": "ranch dressing",
+                "output_query": "ranch dressing",
+                "filters": {},
+                "queryPhase": "primary",
+                "totals": {
+                    "all": 1,
+                    "new": 0,
+                    "offer": 1
+                },
+                "config": "default",
+                "results": [
+                    {
+                        "image": "http://img.tesco.com/Groceries/pi/839/0000050300839/IDShot_90x90.jpg",
+                        "superDepartment": "Food Cupboard",
+                        "tpnb": 55420254,
+                        "ContentsMeasureType": "ML",
+                        "name": "Newmans Own Ranch Dressing 250Ml",
+                        "UnitOfSale": 1,
+                        "AverageSellingUnitWeight": 0.575,
+                        "description": [
+                            "A rich and creamy salad dressing with Garlic & Parsley",
+                            "All Profits to Charity",
+                            "Newman's Own Foundation continues Paul Newman's commitment to donate all royalties and after tax profits from this product for charitable purposes. Paul Newman and Newman's Own Foundation have given over U.S.  400 Million to thousands of charities worldwide since 1982."
+                        ],
+                        "UnitQuantity": "100ML",
+                        "id": 259872411,
+                        "ContentsQuantity": 250,
+                        "department": "Table Sauces, Marinades & Dressings",
+                        "price": 1.2,
+                        "unitprice": 0.48
+                    }
+                ],
+                "suggestions": [
+                    {
+                        "text": "range",
+                        "score": 0.6,
+                        "freq": 65
+                    },
+                    {
+                        "text": "rajah",
+                        "score": 0.6,
+                        "freq": 6
+                    },
+                    {
+                        "text": "rich",
+                        "score": 0.5,
+                        "freq": 54
+                    }
+                ]
+            }
+        }
+    }
+}
