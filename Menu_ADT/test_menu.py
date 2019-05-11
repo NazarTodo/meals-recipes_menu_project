@@ -1,6 +1,6 @@
 from unittest import TestCase
 from menu_adt import Menu
-from linkedlist import LinkedList
+from linked_list.linked_list import LinkedList
 
 
 class TestMenu(TestCase):
