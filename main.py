@@ -14,7 +14,7 @@ for key, value in products.items():
         price.append(price_product(current))
         current = current.next
     price = sum(price)
-    prices[key] = price
+    prices[key] = round(price, 2)
 
 if __name__ == '__main__':
     print(prices)
