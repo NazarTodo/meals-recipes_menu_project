@@ -14,7 +14,7 @@ def price_product(product):
     amount = product.item[1]
     # making a json file of each product
     find_price(prod)
-    with open('products.json', 'r') as f:
+    with open('API_functions/json_files/products.json', 'r') as f:
         data = json.load(f)
     prices = []
     for item in data['uk']['ghs']['products']['results']:
