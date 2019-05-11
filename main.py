@@ -1,6 +1,6 @@
-from spoonacular_api import find_recipes
-from menu_adt import Menu
-from product_price import price_product
+from API_functions.spoonacular_api import find_recipes
+from Menu_ADT.menu_adt import Menu
+from functions.product_price import price_product
 
 ing = [input() for i in range(3)]
 find_recipes(ing)
