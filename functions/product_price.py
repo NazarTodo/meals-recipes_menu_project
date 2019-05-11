@@ -1,6 +1,6 @@
 import json
+from API_fucntions.tesco_api import find_price
 
-from tesco_api import find_price
 def price_product(product):
     """
     Returns price of a product using Tesco API
