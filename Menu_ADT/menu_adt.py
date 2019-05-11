@@ -1,5 +1,5 @@
 import json
-from linked_list.linked_list import LinkedList
+from Menu_ADT.linked_list.linked_list import LinkedList
 
 
 class Menu:
