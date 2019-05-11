@@ -1,5 +1,5 @@
 import json
-from API_fucntions.tesco_api import find_price
+from API_functions.tesco_api import find_price
 
 def price_product(product):
     """
