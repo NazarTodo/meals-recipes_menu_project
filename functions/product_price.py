@@ -21,7 +21,7 @@ def price_product(product):
         if item['UnitQuantity'] == quantity:
             prices.append(item['unitprice'])
         elif quantity == '':
-            prices.append(item['unitprice'])
+            prices.append(item['price'])
         else:
             prices.append(item['unitprice'])
     if len(prices) == 0:
