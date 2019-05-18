@@ -4,7 +4,7 @@ from functions.product_price import price_product
 
 ing = [input("Enter an ingredient:\n") for i in range(3)]
 find_recipes(ing)
-main_dish = Menu('../API_functions/json_files/data.json')
+main_dish = Menu('API_functions/json_files/data.json')
 products = main_dish.get_products()
 prices = dict()
 for key, value in products.items():
