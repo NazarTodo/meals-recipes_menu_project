@@ -1,0 +1,200 @@
+body {
+    padding: 0;
+    text-transform: uppercase;
+    text-align: center;
+    background: url(pic.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: Raleway-Lightimport;
+    font-size: 15px;
+    color: #ba8b00;
+
+}
+
+@font-face {
+    font-family: Raleway-Lightimport;
+    src: url("Raleway-Light.ttf");
+}
+
+.main {
+    right: 50%;
+    font-family: Raleway-Lightimport;
+}
+
+
+fieldset {
+    width: 300px;
+    border: 2px solid white;
+    border-radius: 12px;
+    padding: 80px;
+    margin: 200px;
+    position: absolute;
+    right: 45%;
+    background: rgba(0, 0, 0, 0.3)
+}
+
+legend {
+    border: 2px solid white;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 15px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+}
+
+.all-border {
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 50px;
+    margin: 20px;
+    background: rgba(100, 175, 200, 0.2)
+}
+
+
+input[type=radio] {
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 15px;
+
+    -webkit-appearance: button;
+
+    border: double 2px black;
+
+    background-color: white;
+    color: darkseagreen;
+    white-space: nowrap;
+    overflow: hidden;
+
+    width: 15px;
+    height: 15px;
+}
+
+input[type=radio]:checked {
+    background-color: #ba8b00;
+}
+
+input[type=radio]:hover {
+    box-shadow: 0px 0px 10px #ba8b00;
+}
+
+input[type=checkbox] {
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 15px;
+
+    -webkit-appearance: checkbox;
+
+    border: double 2px black;
+
+    background-color: white;
+    color: darkseagreen;
+    white-space: nowrap;
+    overflow: hidden;
+
+    width: 15px;
+    height: 15px;
+}
+
+
+input[type=checkbox]:hover {
+    box-shadow: 0px 0px 10px #ba8b00;
+}
+
+input[type=submit] {
+    padding: 4px 15px;
+    background: #ba8b00;
+    border: 0 none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+
+}
+
+
+.small-img {
+    background: url('git3.png');
+    height: 46px;
+    width: 46px;
+    position: fixed;
+    right: 96%;
+    bottom: 0%;
+}
+
+
+table {
+    table-layout: fixed;
+    word-break: break-all;
+    display: table-cell;
+    padding: 2rem 0rem 0rem 0rem;
+    max-width: 1350px;
+
+}
+
+h1 {
+    font-size: 80px;
+    position: fixed;
+    right: 60%;
+    bottom: 70%;
+    font-weight: inherit;
+}
+
+th {
+
+    padding: 10px;
+}
+
+table, th, td {
+
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    border-radius: 7px;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 15px;
+    text-align: center;
+}
+
+table#t01 tr:nth-child(odd) {
+    background: rgba(0, 0, 0, 0.15)
+}
+
+table#t01 tr:nth-child(even) {
+    background: rgba(0, 0, 0, 0.3)
+}
+
+table#t01 th {
+    color: #ba8b00;
+}
+
+table#t01 td:nth-of-type(1) {
+    width: 100px;
+}
+
+table#t01 td:nth-of-type(2) {
+    width: 1000px;
+}
+
+/*Setting the width of column 2.*/
+table#t01 td:nth-of-type(3) {
+    width: 100px;
+}
+
+
+button {
+
+    padding: 10px 25px;
+    font-size: 20px;
+    background: #ba8b00;
+    border: 0 none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+    position: fixed;
+    left: 25%;
+    bottom: 50%;
+}
