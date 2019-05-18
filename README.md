@@ -29,7 +29,7 @@ The output is a menu and costs required for each meal.
   * Function `price_product`. Returns price of a product based on json file with that product's info.
 * `ADT_Example`, `API_Example`, `handling_data_example` - directories with modules and module, made to show an example of functions and methods used while executing main program.
 * `test_menu.py` - Module with unittests for Menu ADT.
-
+* `flask` - Directory that includes all front-end parts of the project and flask.
 
 ## Usage
 
