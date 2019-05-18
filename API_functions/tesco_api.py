@@ -9,7 +9,7 @@ def find_price(ing):
     """
     try:
         conn = requests.get("https://dev.tescolabs.com/grocery/products/?query={}&offset=0&limit=10".format(ing),
-                            headers={'Ocp-Apim-Subscription-Key': 'c5683c24867d481dba0a91e4025d03a0'})
+                            headers={'Ocp-Apim-Subscription-Key': '025b280758e043b1975d22663917204a'})
         data = conn.json()
         with open("../API_functions/json_files/products.json", "w") as file:
             json.dump(data, file, indent=4, separators=(',', ': '))
