@@ -19,6 +19,7 @@ body {
 }
 
 .main {
+
     right: 50%;
     font-family: Raleway-Lightimport;
 }
@@ -136,8 +137,16 @@ table {
 h1 {
     font-size: 80px;
     position: fixed;
-    right: 60%;
-    bottom: 70%;
+    right: 52%;
+    bottom: 75%;
+    font-weight: inherit;
+}
+
+h2 {
+    font-size: 50px;
+    position: fixed;
+    right: 40%;
+    bottom: 50%;
     font-weight: inherit;
 }
 
@@ -195,6 +204,6 @@ button {
     border-radius: 5px;
     color: white;
     position: fixed;
-    left: 25%;
-    bottom: 50%;
+    left: 30%;
+    bottom: 40%;
 }
