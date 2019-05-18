@@ -42,11 +42,11 @@ You also might clone this repository directly to your computer:
 git clone https://github.com/NazarTodo/meals-recipes_menu_project.git
 ```
 If you considered using program from your computer, here are the steps to follow:
-1. Make sure you have installed all additional modules and libraries used in this program.
-1. Run `main.py` module.
-1. Enter three ingredients separately and wait a few seconds to get a few meals with their prices(GB pounds)
+1. Make sure you have installed all additional modules and libraries used in this program.(Flask)
+1. Run `flask_c.py` module, which is in flask directory.
 
-**_BEWARE_, that the program is not fully completed yet and the last version will be deployed on a website. Thus, if you want to get results other than a few meals, you can feel free to change the code. Check out our Contribution block for more info.**
+
+**_BEWARE_, that the program can only be ran from flask_c.py module. Runnung main.py module will not get you the expected result since the project is based on web-application. Main version of the program is on website: http://pastor.pythonanywhere.com.**
 
 ## Program test exmaples
 
