@@ -25,6 +25,6 @@ def find_recipes(ingredients):
             headers={"X-RapidAPI-Key": "9f9fc080c3msh8a9cf2e4d3c73b2p18d065jsn085866fe1f37"})
         data_dict[i['id']] = meal.json()
 
-    with open("API_functions/json_files/data.json", "w") as file:
+    with open("../API_functions/json_files/data.json", "w") as file:
         json.dump(data_dict, file, indent=4, separators=(',', ': '))
 
