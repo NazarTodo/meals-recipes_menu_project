@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="shortcut icon" href="#">
+    <link rel="stylesheet" type="text/css" href="/static/style1.css">
+</head>
+<body>
+
+<fieldset>
+    <legend align="center">Step №1</legend>
+    <form action="" method="post">
+        <h4>Do you eat in the morning?</h4>
+        <div>
+            <input type="checkbox" name="ask" onClick="myFunction('breakfast')"> Yes
+        </div>
+        <div id="breakfast" style="display: none">
+            <h4>Do you like diary products?</h4>
+            <input type="checkbox" name="ask" onClick="myFunction('diary')"> Yes
+            <div id="diary" style="display: none">
+                Cereals <input type="radio" name="breakfast" value="cereal">
+                Porridge <input type="radio" name="breakfast" value="porridge">
+            </div>
+            <h4>Do you like fried meals?</h4>
+            <input type="checkbox" name="ask" onClick="myFunction('fried')"> Yes
+            <div id="fried" style="display: none">
+                Bacon <input type="radio" name="breakfast" value="bacon">
+                Beans <input type="radio" name="breakfast" value="beans">
+                Omelette <input type="radio" name="breakfast" value="omelette">
+            </div>
+            <h4>Would you like sandwich included in your breakfast?</h4>
+            <input type="checkbox" name="ask" onClick="myFunction('quick')"> Yes
+            <div id="quick" style="display: none">
+                <h4>What would you like your sandwich to contain?</h4>
+                Cheese <input type="checkbox" name="breakfast" value="cheese">
+                Butter <input type="checkbox" name="breakfast" value="butter">
+                Ham <input type="checkbox" name="breakfast" value="ham">
+                Chicken <input type="checkbox" name="breakfast" value="chicken">
+                Bacon <input type="checkbox" name="breakfast" value="bacon">
+                Salad <input type="checkbox" name="breakfast" value="salad">
+                Tomatoes <input type="checkbox" name="breakfast" value="tomatoes">
+                Cucumber <input type="checkbox" name="breakfast" value="cucumber">
+            </div>
+        </div>
+        <br><br>
+        <input type="submit" class="form-control" value="Proceed">
+    </form>
+</fieldset>
+<a href="https://github.com/NazarTodo/meals-recipes_menu_project/">
+    <div id="small-img" class="small-img"></div>
+    <script>
+        function myFunction(div1) {
+            var x = document.getElementById(div1);
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+        }
+    </script>
+</body>
+</html>

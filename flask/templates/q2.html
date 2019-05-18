@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="shortcut icon" href="#">
+    <title>aasdas</title>
+    <link rel="stylesheet" type="text/css" href="../static/style1.css?version=3.2"/>
+</head>
+<body>
+<fieldset>
+    <legend align="center">Step №2</legend>
+    <form action="" method="post">
+        <h4>Choose food that you like</h4><br>
+        <div>
+            <input type="checkbox" name="ask" onClick="myFunction('fir_div')"> Meat
+            <input type="checkbox" name="ask" onClick="myFunction('sec_div')"> Fish
+        </div>
+        <div id="fir_div" style="display: none">
+            <br>
+            <h4>Choose your favourite meat</h4>
+            Beef <input type="radio" name="choice2" value="beef">
+            Pork <input type="radio" name="choice2" value="pork">
+            Veal <input type="radio" name="choice2" value="veal">
+            Chicken <input type="radio" name="choice2" value="chicken">
+            Turkey <input type="radio" name="choice2" value="turkey">
+            Lamb <input type="radio" name="choice2" value="lamb">
+        </div>
+        <br>
+        <div id="sec_div" style="display: none">
+            <h4>Choose your favourite fish</h4>
+            Salmon <input type="radio" name="choice1" value="salmon">
+            Cod <input type="radio" name="choice1" value="cod">
+            Herring <input type="radio" name="choice1" value="herring">
+            Carp <input type="radio" name="choice1" value="carp">
+            Trout <input type="radio" name="choice1" value="trout">
+            Tuna <input type="radio" name="choice1" value="tuna">
+        </div>
+        <br>
+
+        <h4>Do you like vegetables?</h4>
+        <input type="checkbox" onClick="myFunction('th_div')"> Yes
+        <div id="th_div" style="display: none">
+            Tomato <input type="checkbox" name="choice3" value="tomato">
+            Potato <input type="checkbox" name="choice3" value="potato">
+            Salad <input type="checkbox" name="choice3" value="salad">
+            Beans <input type="checkbox" name="choice3" value="beans">
+            Carrot <input type="checkbox" name="choice3" value="carrot">
+            Broccoli <input type="checkbox" name="choice3" value="broccoli">
+            Spinach <input type="checkbox" name="choice3" value="spinach">
+            Garlic <input type="checkbox" name="choice3" value="garlic">
+        </div>
+
+        <h4>Which side dish you would prefer?</h4>
+        <div>
+            Pasta <input type="radio" name="choice4" value="pasta">
+            Fries <input type="radio" name="choice4" value="fries">
+            Rice<input type="radio" name="choice4" value="rice">
+            Buckwheat <input type="radio" name="choice4" value="buckwheat">
+        </div>
+        <!--{% for i in range(10)%}-->
+        <!--{{i}}-->
+        <!--{%endfor%}-->
+        <br>
+        <input type="submit" class="form-control" value="Proceed">
+
+</fieldset>
+<a href="https://github.com/NazarTodo/meals-recipes_menu_project/">
+    <div id="small-img" class="small-img"></div>
+    <script>
+
+        function myFunction(div1) {
+            var x = document.getElementById(div1);
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+        }
+    </script>
+    </form>
+
+</body>
+</html>

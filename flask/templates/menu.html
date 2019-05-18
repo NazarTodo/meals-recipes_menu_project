@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="shortcut icon" href="#">
+    <link rel="stylesheet" type="text/css" href="/static/style1.css">
+</head>
+<body>
+
+<table id="t01">
+    <tr>
+        <th>Image</th>
+        <th>Dish & Instructuins</th>
+        <th>Price £</th>
+    </tr>
+</table>
+
+<a href="https://github.com/NazarTodo/meals-recipes_menu_project/">
+    <div id="small-img" class="small-img"></div>
+
+
+    <script>
+        function myFunction(image, desc, price) {
+            var myTable, newRow;
+            myTable = document.getElementById("t01");
+            newRow = document.createElement("tr");
+            var img = document.createElement('img');
+            img.src = image;
+            var newCell1 = document.createElement("td");
+            var newCell2 = document.createElement("td");
+            var newCell3 = document.createElement("td");
+            newCell1.appendChild(img);
+            newCell2.innerText = desc;
+            newCell3.innerText = price;
+            newRow.appendChild(newCell1);
+            newRow.appendChild(newCell2);
+            newRow.appendChild(newCell3);
+            myTable.appendChild(newRow);
+        }
+
+        {%for i in menu%}
+
+        myFunction('{{menu[i][1]}}', "{{i+':       '+menu[i][2][0] if menu[i][2][0] != None else i}}", "{{menu[i][0]}}");
+        {%endfor%}
+    </script>
+</body>
+</html>
+

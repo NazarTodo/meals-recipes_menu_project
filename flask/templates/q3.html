@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="shortcut icon" href="#">
+    <link rel="stylesheet" type="text/css" href="/static/style1.css">
+</head>
+<body>
+<fieldset>
+    <legend align="center">Step №3</legend>
+    <form action="" method="post">
+        <h4>Do you like eating deserts?</h4>
+        <div>
+            <input type="checkbox" name="ask" onClick="myFunction('deserts')"> Yes
+        </div>
+        <div id="deserts" style="display: none">
+            <h4>Do you like bakery?</h4>
+            <input type="checkbox" name="deserts" value="flour"> Yes
+            <h4>Do you like milk?</h4>
+            <input type="checkbox" name="deserts" value="milk"> Yes
+            <h4>Do you like fruits?</h4>
+            <input type="checkbox" name="ask" onClick="myFunction('fruits')"> Yes
+            <div id="fruits" style="display: none">
+                <h4>Choose your favourite fruits</h4>
+                Apple <input type="checkbox" name="deserts" value="apple">
+                Banana <input type="checkbox" name="deserts" value="banana">
+                Strawberry <input type="checkbox" name="deserts" value="strawberry">
+                Raspberry <input type="checkbox" name="deserts" value="raspberry">
+                Blueberry <input type="checkbox" name="deserts" value="blueberry">
+                Pear <input type="checkbox" name="deserts" value="pear">
+                Pineapple <input type="checkbox" name="deserts" value="pineapple">
+                Mango <input type="checkbox" name="deserts" value="mango">
+            </div>
+            <h4>Do you like chocolate?</h4>
+            <input type="checkbox" name="deserts" value="chocolate"> Yes
+        </div>
+        <br><br>
+        <input type="submit" class="form-control" value="Create your menu !">
+    </form>
+</fieldset>
+<a href=" https://github.com/NazarTodo/meals-recipes_menu_project/">
+    <div id="small-img" class="small-img"></div>
+
+    <script>
+        function myFunction(div1) {
+            var x = document.getElementById(div1);
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+        }
+    </script>
+</body>
+</html>
