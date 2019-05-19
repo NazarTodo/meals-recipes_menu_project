@@ -41,8 +41,11 @@ class Menu:
         Fills _instructions dict with meal as a key and meal's preparing instructions as a value
         """
         for i in self._data.values():
-            self._instructions[i['title']] = [i["instructions"]]
-            self._instructions[i['title']].append([i["pricePerServing"]])
+            inst = [i["instructions"]] if [i["instructions"]] else ['']
+            if inst[0]:
+                if '\n' in inst[0]:
+                    inst[0] = inst[0].replace('\n', '')
+            self._instructions[i['title']] = inst
 
     def __find_image(self):
         """
