@@ -16,13 +16,13 @@ def find_recipes(ingredients):
     connection = requests.get(
         "https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/recipes/findByIngredients?number=3&ranking=1&ingredients={}".format(
             ing),
-        headers={"X-RapidAPI-Key": "9f9fc080c3msh8a9cf2e4d3c73b2p18d065jsn085866fe1f37"})
+        headers={"X-RapidAPI-Key": "02709a836amshe35a053f36369f1p11274bjsnf37502547767"})
     data_dict = dict()
     data = connection.json()
     for i in data:
         meal = requests.get(
             "https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/recipes/{}/information".format(i['id']),
-            headers={"X-RapidAPI-Key": "9f9fc080c3msh8a9cf2e4d3c73b2p18d065jsn085866fe1f37"})
+            headers={"X-RapidAPI-Key": "02709a836amshe35a053f36369f1p11274bjsnf37502547767"})
         data_dict[i['id']] = meal.json()
 
     with open("../API_functions/json_files/data.json", "w") as file:
