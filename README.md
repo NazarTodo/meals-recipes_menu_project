@@ -33,7 +33,7 @@ The output is a menu and costs required for each meal.
 
 ## Usage
 
-Visit our website: http://pastor.pythonanywhere.com. 
+Visit our website: http://pastor.pythonanywhere.com. (Currently unavailable due to lack of funds to pay for the API)
 
 Follow given steps to create your own unique menu.
 
